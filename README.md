@@ -1,7 +1,7 @@
 ### Olá, eu sou o Stanley 👋🏼
 
 - 🎲 Hoje trabalho com análise de dados.
-- 🧑🏼‍💻 Estudando Java Web.
+- 🧑🏼‍💻 Estudando Java.
 
 <div align="center">
   <a href="https://github.com/stanleymp">
