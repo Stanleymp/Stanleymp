@@ -1,7 +1,7 @@
 ### Olá, eu sou o Stanley 👋🏼
 
 - 🎲 Hoje trabalho com análise de dados.
-- 🧑🏼‍💻 Estudando Java.
+- 🧑🏼‍💻 Estudando Ciência de Dados.
 
 <input type="button" value="enviar">
 
@@ -13,11 +13,13 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="icon-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="icon-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>-->
+  <img align="center" alt="icon-SAS" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png"/>
+  <img align="center" alt="icon-SQL" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/files-47/64/sql-512.png"/>
   <img align="right" alt="icon-PROFILE" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/703773024687751298/957805829720002670/ezgif-5-ee60e9e9b0.gif?width=431&height=468">
 </div>
   
